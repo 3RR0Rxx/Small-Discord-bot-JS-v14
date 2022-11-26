@@ -1,0 +1,7 @@
+{
+    "clientId": "your client id goes here",
+    "token": "your bot token goes here",
+    "xKey": "your bot id goes here",
+    "inviteLink": "your invite link goes here",
+    "prefix": "prefix you choose"
+}
